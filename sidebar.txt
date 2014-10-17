@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mig:home|Door43 (mig)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mig|d43-mig repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mig/archive/master.zip|d43-mig.zip]]
+
+**Recent Changes**
+{{changes>ns = mig}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mig|Ethnologue data]]
+
